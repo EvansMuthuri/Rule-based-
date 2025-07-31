@@ -165,7 +165,7 @@ st.markdown("<p class='main-header'>Malaria Diagnosis Application</p>", unsafe_a
 st.markdown("""
 <div class="hero-banner">
     <h1>Empowering Health Decisions with Knowledge</h1>
-    <p>This tool helps you quickly assess malaria likelihood based on common symptoms. Learn and make a difference!</p>
+    <p>Join us in using technology to make a difference in our community's health!</p>
 </div>
 """, unsafe_allow_html=True)
 
